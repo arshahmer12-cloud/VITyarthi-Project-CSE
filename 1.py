@@ -35,7 +35,7 @@ def get_consumer_details():
             connection_type = "Commercial"
             break
         else:
-            print("Invalid choice. Please try again.")
+            print("Invalid choice, Please try again.")
 
 
 def calculate_bill():
