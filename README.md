@@ -1,8 +1,6 @@
 # Electricity Bill Calculator
 
-A single-file, menu-driven Python command-line program that calculates an electricity bill
-using a progressive (slab-based) tariff, and estimates monthly consumption from a list of
-household appliances.
+A program that calculates an electricity bil using a progressive (slab-based) tariff, and estimates monthly consumption from a list ofhousehold appliances.
 
 ## Overview
 
@@ -34,9 +32,6 @@ electricity-bill-calculator/
 ├── README.md
 ├── statement.md
 ├── bill_calculator.py         # the entire program
-└── design/
-    ├── requirements.md         # objectives, functional & non-functional requirements
-    └── diagrams.md             # architecture, workflow, use case, component & sequence diagrams
 
 ## Environment Setup
 

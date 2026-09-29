@@ -8,7 +8,7 @@ command-line tool.
 
  Scope.
 
-A single-file, menu-driven **Electricity Bill Calculator** that:
+ menu-driven **Electricity Bill Calculator** that:
 
 - Records a consumer's name, consumer number, and connection type (Domestic / Commercial)
 - Calculates a bill from two meter readings using a progressive (slab-based) tariff, plus a

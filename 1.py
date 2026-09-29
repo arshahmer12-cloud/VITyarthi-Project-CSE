@@ -1,5 +1,4 @@
 # ELECTRICITY BILL CALCULATOR
-# Single-file Python Project
 
 consumer_name = ""
 consumer_number = ""
@@ -62,7 +61,7 @@ def calculate_bill():
 
     print("\nUnits consumed:", units_consumed)
 
-    # Domestic tariff
+    # Domestic
     if connection_type == "Domestic":
 
         if units_consumed <= 100:
@@ -81,7 +80,7 @@ def calculate_bill():
 
         fixed_charge = 100
 
-    # Commercial tariff
+    # Commercial
     else:
 
         if units_consumed <= 100:
